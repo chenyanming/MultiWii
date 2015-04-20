@@ -1,0 +1,693 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fo",
+				"form"
+			],
+			[
+				"fun",
+				"func"
+			],
+			[
+				"light",
+				"light_lvl"
+			],
+			[
+				"lo",
+				"loop	Arduino loop"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/chandamon/Documents/RA/ardupilot/David/ver16_0.ino",
+			"settings":
+			{
+				"buffer_size": 11446,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/chandamon/Library/Application Support/Sublime Text 2/Packages/User/ctags_c.sublime-build",
+			"settings":
+			{
+				"buffer_size": 53,
+				"line_ending": "Unix",
+				"name": "untitled.sublime-build"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 67.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"j",
+				"LaTeXTools: Jump to PDF"
+			],
+			[
+				"pdf",
+				"LaTeXTools: Jump to PDF"
+			],
+			[
+				"jum",
+				"LaTeXTools: Jump to PDF"
+			],
+			[
+				"ju",
+				"LaTeXTools: Jump to PDF"
+			],
+			[
+				"latexr",
+				"LaTeXTools: Reconfigure and migrate settings"
+			],
+			[
+				"latex",
+				"LaTeXTools: Jump to PDF"
+			],
+			[
+				"late",
+				"LaTeXTools: Jump to PDF"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"INSTALL",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 167.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/chandamon/Documents/connectthedots-master/Azure/StreamAnalyticsQueries/LightSensor.sql",
+		"/Users/chandamon/Documents/connectthedots-master/Azure/StreamAnalyticsQueries/Alert.sql",
+		"/Users/chandamon/Documents/connectthedots-master/Devices/GatewayConnectedDevices/Arduino UNO/Weather/WeatherShieldJson/WeatherShieldJson.ino",
+		"/Users/chandamon/Documents/connectthedots-master/Azure/WebSite/ConnectTheDotsWebSite/js/d3Chart.js",
+		"/Users/chandamon/Documents/connectthedots-master/Azure/WebSite/ConnectTheDotsWebSite/js/d3DataFlow.js",
+		"/Users/chandamon/Documents/connectthedots-master/Azure/StreamAnalyticsQueries/Aggregates.sql",
+		"/Users/chandamon/Documents/connectthedots-master/Azure/WebSite/ConnectTheDotsWebSite/Default.aspx",
+		"/Users/chandamon/Dropbox/Project/JS/first.html",
+		"/Users/chandamon/Documents/connectthedots-master/Azure/WebSite/ConnectTheDotsWebSite/js/d3CTDDataSourceFilter.js",
+		"/Users/chandamon/Documents/connectthedots-master/Azure/WebSite/ConnectTheDotsWebSite/js/d3CTDDataSourceSocket.js",
+		"/Users/chandamon/Documents/connectthedots-master/Azure/WebSite/ConnectTheDotsWebSite/js/d3ChartControl.js",
+		"/Users/chandamon/Documents/connectthedots-master/Devices/DirectlyConnectedDevices/IntelGalileo/ConnectTheDotsGalileo/MPL3115A2.cpp",
+		"/Users/chandamon/Documents/connectthedots-master/Azure/WebSite/ConnectTheDotsWebSite/js/d3CTD.js",
+		"/Users/chandamon/Documents/connectthedots-master/Azure/WebSite/ConnectTheDotsWebSite/js/d3utils.js",
+		"/Users/chandamon/Documents/connectthedots-master/Azure/WebSite/ConnectTheDotsWebSite/js/d3DataSourceSocket.js",
+		"/Users/chandamon/Dropbox/Project/JS/first.js",
+		"/Users/chandamon/Documents/connectthedots-master/Azure/WebSite/ConnectTheDotsWebSite/obj/Release/Package/PackageTmp/js/d3CTD.js",
+		"/Users/chandamon/Documents/connectthedots-master/Devices/DirectlyConnectedDevices/IntelGalileo/ConnectTheDotsGalileo/Configuration.cpp",
+		"/Users/chandamon/Documents/connectthedots-master/Devices/DirectlyConnectedDevices/IntelGalileo/ConnectTheDotsGalileo/HTU21D.h",
+		"/Users/chandamon/Documents/connectthedots-master/Devices/DirectlyConnectedDevices/IntelGalileo/ConnectTheDotsGalileo/HTU21D.cpp",
+		"/Users/chandamon/Documents/connectthedots/Devices/DirectlyConnectedDevices/NETMF/ConnectTheDotsGadgeteer/Program.cs",
+		"/Users/chandamon/Documents/connectthedots/Azure/WebSite/ConnectTheDotsWebSite/Default.aspx.cs",
+		"/Users/chandamon/Documents/connectthedots/Azure/WebSite/ConnectTheDotsWebSite/Default.aspx",
+		"/Users/chandamon/Dropbox/Project/Spice/test.cir",
+		"/Users/chandamon/Dropbox/Project/Spice/Draft1.net",
+		"/Users/chandamon/Dropbox/Project/Spice/example.cir",
+		"/Users/chandamon/Dropbox/Project/test.sp",
+		"/Users/chandamon/Documents/RA/ardupilot/MultiWii_2_2/MultiWii/tinygps.h",
+		"/Users/chandamon/Documents/RA/ardupilot/MultiWii_2_2/MultiWii/Serial.ino",
+		"/Users/chandamon/Documents/RA/ardupilot/MultiWii_2_2/MultiWii/Sensors.ino",
+		"/Users/chandamon/Documents/RA/ardupilot/MultiWii_2_2/MultiWii/Alarms.ino",
+		"/Users/chandamon/Documents/RA/ardupilot/MultiWii_2_2/MultiWii/IMU.ino",
+		"/Users/chandamon/Documents/RA/ardupilot/MultiWii_2_2/MultiWii/RX.ino",
+		"/Users/chandamon/Documents/RA/ardupilot/MultiWii_2_2/MultiWii/def.h",
+		"/Users/chandamon/Documents/RA/ardupilot/MultiWii_2_2/MultiWii/Output.ino",
+		"/Users/chandamon/Documents/RA/ardupilot/MultiWii_2_2/MultiWii/EEPROM.ino",
+		"/Users/chandamon/Documents/RA/ardupilot/MultiWii_2_2/MultiWii/MultiWii.ino",
+		"/Users/chandamon/Documents/RA/ardupilot/MultiWii_2_2/MultiWii/config.h",
+		"/Users/chandamon/Library/Application Support/Sublime Text 2/Packages/CTags/CTags.sublime-settings",
+		"/Users/chandamon/Documents/RA/ardupilot/MultiWii_2_2/MultiWii/.tags",
+		"/Users/chandamon/Library/Application Support/Sublime Text 2/Packages/CTags/Default.sublime-mousemap",
+		"/Applications/arduino.app/Contents/Resources/Java/hardware/arduino/cores/arduino/main.cpp",
+		"/Users/chandamon/Documents/RA/ardupilot/MultiWii_2_2/MultiWii_test/IMU.ino",
+		"/Users/chandamon/Documents/RA/ardupilot/MultiWii_2_2/MultiWii_test/EEPROM.ino",
+		"/Users/chandamon/Documents/RA/ardupilot/MultiWii_2_2/MultiWii_test/Alarms.ino",
+		"/Users/chandamon/Documents/RA/ardupilot/MultiWii_2_2/MultiWii_test/MultiWii.ino",
+		"/Users/chandamon/Documents/RA/ardupilot/MultiWii_2_4/MultiWii_test/IMU.ino",
+		"/Users/chandamon/Documents/RA/ardupilot/MultiWii_2_4/MultiWii_test/EEPROM.ino",
+		"/Users/chandamon/Documents/RA/ardupilot/MultiWii_2_4/MultiWii_test/Alarms.ino",
+		"/Users/chandamon/Documents/RA/ardupilot/MultiWii_2_4/MultiWii_test/MultiWii.ino",
+		"/Users/chandamon/Documents/RA/ardupilot/MultiWii_2_4/MultiWii/MultiWii.ino",
+		"/Users/chandamon/Documents/RA/ardupilot/MultiWii_2_4/MultiWii/def.h",
+		"/Users/chandamon/Documents/RA/ardupilot/MultiWii_2_4/MultiWii/MultiWii.h",
+		"/Users/chandamon/Documents/RA/ardupilot/MultiWii_2_4/MultiWii/MultiWii.cpp",
+		"/Users/chandamon/Documents/RA/ardupilot/MultiWii_2_4/MultiWii/LCD.h",
+		"/Users/chandamon/Documents/RA/ardupilot/MultiWii_2_4/MultiWii/LCD.cpp",
+		"/Users/chandamon/Documents/RA/ardupilot/MultiWii_2_4/MultiWii/IMU.h",
+		"/Users/chandamon/Documents/RA/ardupilot/MultiWii_2_4/MultiWii/IMU.cpp",
+		"/Users/chandamon/Documents/RA/ardupilot/MultiWii_2_4/MultiWii/GPS.h",
+		"/Users/chandamon/Documents/RA/ardupilot/MultiWii_2_4/MultiWii/GPS.cpp",
+		"/Users/chandamon/Documents/RA/ardupilot/MultiWii_2_4/MultiWii/EEPROM.h",
+		"/Users/chandamon/Documents/RA/ardupilot/MultiWii_2_4/MultiWii/EEPROM.cpp",
+		"/Users/chandamon/Documents/RA/ardupilot/MultiWii_2_4/MultiWii/CREDITS.txt",
+		"/Users/chandamon/Documents/RA/ardupilot/MultiWii_2_4/MultiWii/Alarms.cpp",
+		"/Users/chandamon/Documents/RA/ardupilot/MultiWii_2_4/MultiWii/Alarms.h",
+		"/Users/chandamon/Documents/RA/ardupilot/MultiWii_2_4/MultiWii/types.h",
+		"/Users/chandamon/Documents/RA/ardupilot/MultiWii_2_4/MultiWii/Serial.h",
+		"/Users/chandamon/Documents/RA/ardupilot/MultiWii_2_4/MultiWii/Serial.cpp",
+		"/Users/chandamon/Documents/RA/ardupilot/MultiWii_2_4/MultiWii/Sensors.h",
+		"/Users/chandamon/Documents/RA/ardupilot/MultiWii_2_4/MultiWii/Sensors.cpp",
+		"/Users/chandamon/Documents/RA/ardupilot/MultiWii_2_4/MultiWii/RX.h",
+		"/Users/chandamon/Documents/RA/ardupilot/MultiWii_2_4/MultiWii/RX.cpp",
+		"/Users/chandamon/Documents/RA/ardupilot/MultiWii_2_4/MultiWii/Protocol.h",
+		"/Users/chandamon/Documents/RA/ardupilot/MultiWii_2_4/MultiWii/Protocol.cpp",
+		"/Users/chandamon/Documents/RA/ardupilot/MultiWii_2_4/MultiWii/Output.h",
+		"/Users/chandamon/Documents/RA/ardupilot/MultiWii_2_4/MultiWii/Output.cpp",
+		"/Users/chandamon/Documents/RA/ardupilot/MultiWii_2_4/MultiWii/config.h",
+		"/Users/chandamon/Desktop/High Frequency/build-ImpedanceMatching-unknown-Release/ui_mainwindow.h",
+		"/Users/chandamon/Desktop/High Frequency/ui_mainwindow.h",
+		"/Users/chandamon/Desktop/High Frequency/mainwindow.cpp",
+		"/Volumes/老毛桃U盘/GHO/Readme.txt",
+		"/Users/chandamon/Desktop/ardupilot/David/apm飞控教程.txt",
+		"/Users/chandamon/Dropbox/Postgraduate/Semester Two/EIE575 Vehicular Communications and Inter-networking Technologies/Assignments/3/50/test_50v.sim",
+		"/Users/chandamon/Dropbox/led.c",
+		"/Users/chandamon/Dropbox/Work/Resume/test.tex",
+		"/Users/chandamon/Dropbox/Work/Resume/PS.tex",
+		"/Users/chandamon/50/Event.txt",
+		"/Users/chandamon/Desktop/100/Event.txt",
+		"/Users/chandamon/Desktop/50/Message.txt",
+		"/Users/chandamon/Desktop/50/Event.txt",
+		"/Users/chandamon/Dropbox/Work/Resume/Resume.tex",
+		"/Volumes/NO NAME/50/Event.txt",
+		"/Users/chandamon/Dropbox/Postgraduate/Semester Two/EIE575 Vehicular Communications and Inter-networking Technologies/Assignments/3/50/Event.txt",
+		"/Users/chandamon/50/Message.txt",
+		"/Users/chandamon/Library/Application Support/Sublime Text 2/Packages/LaTeXTools/Default (OSX).sublime-keymap",
+		"/Users/chandamon/Dropbox/Work/CV.tex",
+		"/Applications/arduino.app/Contents/Resources/Java/examples/01.Basics/Blink/Blink.ino",
+		"/Users/chandamon/Desktop/RA/Why RPi/RasPi ProgramRaspPiDrone/Program a Raspberry Pi Drone.py",
+		"/Users/chandamon/Downloads/simple-client.c",
+		"/Users/chandamon/Dropbox/留学/32.理大/理工.pdf",
+		"/Applications/arduino.app/Contents/Resources/Java/examples/01.Basics/AnalogReadSerial/AnalogReadSerial.ino",
+		"/Users/chandamon/Dropbox/Project/serial.ino",
+		"/Users/chandamon/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/chandamon/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/chandamon/Desktop/Default (OSX)_U.sublime-keymap",
+		"/Users/chandamon/Desktop/Default (OSX).sublime-keymap",
+		"/Users/chandamon/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 99.0,
+		"where_history":
+		[
+			"/Users/chandamon/Documents/connectthedots-master/Azure",
+			"/Users/chandamon/Documents/connectthedots-master/Azure/WebSite",
+			"/Users/chandamon/Documents/connectthedots-master/Azure",
+			"/Users/chandamon/Documents/connectthedots-master/Azure/WebSite/ConnectTheDotsWebSite/",
+			"/Users/chandamon/Documents/connectthedots-master/Azure/WebSite/ConnectTheDotsWebSite/js",
+			"/Users/chandamon/Documents/connectthedots-master/Azure/WebSite",
+			"/Users/chandamon/Documents/connectthedots-master/Azure/WebSite/ConnectTheDotsWebSite/js",
+			"/Users/chandamon/Documents/connectthedots-master/Azure/WebSite",
+			"/Users/chandamon/Documents/connectthedots-master/Azure/WebSite/ConnectTheDotsWebSite",
+			"/Users/chandamon/Documents/connectthedots/Azure/WebSite",
+			"/Users/chandamon/Documents/connectthedots/Azure/WebSite/ConnectTheDotsWebSite",
+			"/Users/chandamon/Documents/RA/ardupilot/MultiWii_2_2/MultiWii",
+			"/Users/chandamon/Library/Application Support/Sublime Text 2/Packages/CTags",
+			"/Users/chandamon/Documents/RA/ardupilot/MultiWii_2_2/MultiWii"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"tempMax",
+			"Temp Average",
+			"Temp Avertage",
+			"measurename",
+			"_data",
+			"updateChart",
+			"yMin",
+			"setY0Label",
+			"d3Chart",
+			"d3Chart.",
+			"deepCopy",
+			"extendClass",
+			"new Object",
+			"Class.create",
+			"new Func",
+			"construc",
+			"alert",
+			"d3Chart",
+			"function",
+			"for",
+			"addNewDataFlow",
+			"d3DataFlow",
+			"displayNameNew",
+			"displayName",
+			"dataFlows",
+			"chartscontainer",
+			"ConnectTheDotsWebSite",
+			"Select Sensor",
+			"Select Senser",
+			"chart_Pressure",
+			"chart_pressure",
+			"legend",
+			"fill",
+			"light_lvl",
+			"humidity",
+			"tempf",
+			"myHumidity",
+			"temp",
+			"light",
+			"time",
+			"temperature",
+			"loop",
+			"ACC",
+			"INFLIGHT_ACC_CALIBRATION",
+			"loop",
+			"/Library/Developer/CommandLineTools/usr/bin/ctags",
+			"computeIMU",
+			"ESC",
+			"GPS",
+			"MPU6050",
+			"picircuit",
+			"tcircuit",
+			"shuntl",
+			"serialsl",
+			"{table}"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"tappedcapacitor",
+			"picircuit",
+			"tcircuit",
+			"shuntl"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/chandamon/Documents/RA/ardupilot/David/ver16_0.ino",
+					"settings":
+					{
+						"buffer_size": 11446,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/User/Stino/Arduino.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 101.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/chandamon/Library/Application Support/Sublime Text 2/Packages/User/ctags_c.sublime-build",
+					"settings":
+					{
+						"buffer_size": 53,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								53,
+								53
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 37.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.1425988347.09":
+	{
+		"height": 136.0
+	},
+	"output.build|/Applications/arduino.app/Contents/Resources/Java/examples/01.Basics/Blink|1425986948.12":
+	{
+		"height": 136.0
+	},
+	"output.build|/Applications/arduino.app/Contents/Resources/Java/examples/01.Basics/Blink|1425986968.76":
+	{
+		"height": 136.0
+	},
+	"output.build|/Users/chandamon/Documents/RA/ardupilot/MultiWii_2_2/MultiWii_test|1429179013.72":
+	{
+		"height": 136.0
+	},
+	"output.build|/Users/chandamon/Documents/RA/ardupilot/MultiWii_2_2/MultiWii|1429179194.01":
+	{
+		"height": 136.0
+	},
+	"output.build|/Users/chandamon/Documents/RA/ardupilot/MultiWii_2_4/MultiWii_test|1429178488.26":
+	{
+		"height": 136.0
+	},
+	"output.build|/Users/chandamon/Documents/RA/ardupilot/MultiWii_2_4/MultiWii|1429178020.64":
+	{
+		"height": 136.0
+	},
+	"output.build|/Users/chandamon/Documents/RA/ardupilot/MultiWii_2_4/MultiWii|1429178139.74":
+	{
+		"height": 136.0
+	},
+	"output.build|/Users/chandamon/Documents/connectthedots-master/Devices/GatewayConnectedDevices/Arduino UNO/Weather/WeatherShieldJson|1429440415.7":
+	{
+		"height": 136.0
+	},
+	"output.build|/Users/chandamon/Documents/connectthedots-master/Devices/GatewayConnectedDevices/Arduino UNO/Weather/WeatherShieldJson|1429442272.7":
+	{
+		"height": 136.0
+	},
+	"output.build|/Users/chandamon/Documents/connectthedots-master/Devices/GatewayConnectedDevices/Arduino UNO/Weather/WeatherShieldJson|1429442289.33":
+	{
+		"height": 136.0
+	},
+	"output.build|/Users/chandamon/Documents/connectthedots-master/Devices/GatewayConnectedDevices/Arduino UNO/Weather/WeatherShieldJson|1429442326.32":
+	{
+		"height": 136.0
+	},
+	"output.build|/Users/chandamon/Documents/connectthedots-master/Devices/GatewayConnectedDevices/Arduino UNO/Weather/WeatherShieldJson|1429443824.81":
+	{
+		"height": 136.0
+	},
+	"output.build|/Users/chandamon/Dropbox/Project|1425989488.63":
+	{
+		"height": 136.0
+	},
+	"output.build|/Users/chandamon/Dropbox/Project|1425989504.86":
+	{
+		"height": 136.0
+	},
+	"output.clang":
+	{
+		"height": 136.0
+	},
+	"output.exec":
+	{
+		"height": 136.0
+	},
+	"output.upload|/Applications/arduino.app/Contents/Resources/Java/examples/01.Basics/AnalogReadSerial|1425988946.98":
+	{
+		"height": 31.0
+	},
+	"output.upload|/Applications/arduino.app/Contents/Resources/Java/examples/01.Basics/AnalogReadSerial|1425988984.83":
+	{
+		"height": 136.0
+	},
+	"output.upload|/Applications/arduino.app/Contents/Resources/Java/examples/01.Basics/Blink|1425986972.99":
+	{
+		"height": 136.0
+	},
+	"output.upload|/Applications/arduino.app/Contents/Resources/Java/examples/01.Basics/Blink|1425987019.99":
+	{
+		"height": 136.0
+	},
+	"output.upload|/Applications/arduino.app/Contents/Resources/Java/examples/01.Basics/Blink|1425987033.1":
+	{
+		"height": 136.0
+	},
+	"output.upload|/Applications/arduino.app/Contents/Resources/Java/examples/01.Basics/Blink|1425987044.39":
+	{
+		"height": 136.0
+	},
+	"output.upload|/Applications/arduino.app/Contents/Resources/Java/examples/01.Basics/Blink|1425987943.11":
+	{
+		"height": 136.0
+	},
+	"output.upload|/Applications/arduino.app/Contents/Resources/Java/examples/01.Basics/Blink|1425987961.88":
+	{
+		"height": 136.0
+	},
+	"output.upload|/Applications/arduino.app/Contents/Resources/Java/examples/01.Basics/Blink|1425988649.29":
+	{
+		"height": 136.0
+	},
+	"output.upload|/Applications/arduino.app/Contents/Resources/Java/examples/01.Basics/Blink|1425988672.07":
+	{
+		"height": 136.0
+	},
+	"output.upload|/Applications/arduino.app/Contents/Resources/Java/examples/01.Basics/Blink|1425988678.67":
+	{
+		"height": 136.0
+	},
+	"output.upload|/Users/chandamon/Documents/connectthedots-master/Devices/GatewayConnectedDevices/Arduino UNO/Weather/WeatherShieldJson|1429440593.46":
+	{
+		"height": 136.0
+	},
+	"output.upload|/Users/chandamon/Documents/connectthedots-master/Devices/GatewayConnectedDevices/Arduino UNO/Weather/WeatherShieldJson|1429440668.28":
+	{
+		"height": 136.0
+	},
+	"output.upload|/Users/chandamon/Documents/connectthedots-master/Devices/GatewayConnectedDevices/Arduino UNO/Weather/WeatherShieldJson|1429440757.49":
+	{
+		"height": 136.0
+	},
+	"output.upload|/Users/chandamon/Documents/connectthedots-master/Devices/GatewayConnectedDevices/Arduino UNO/Weather/WeatherShieldJson|1429442350.71":
+	{
+		"height": 136.0
+	},
+	"output.upload|/Users/chandamon/Documents/connectthedots-master/Devices/GatewayConnectedDevices/Arduino UNO/Weather/WeatherShieldJson|1429442886.34":
+	{
+		"height": 136.0
+	},
+	"output.upload|/Users/chandamon/Documents/connectthedots-master/Devices/GatewayConnectedDevices/Arduino UNO/Weather/WeatherShieldJson|1429443137.77":
+	{
+		"height": 136.0
+	},
+	"output.upload|/Users/chandamon/Documents/connectthedots-master/Devices/GatewayConnectedDevices/Arduino UNO/Weather/WeatherShieldJson|1429443366.85":
+	{
+		"height": 136.0
+	},
+	"output.upload|/Users/chandamon/Documents/connectthedots-master/Devices/GatewayConnectedDevices/Arduino UNO/Weather/WeatherShieldJson|1429443393.74":
+	{
+		"height": 136.0
+	},
+	"output.upload|/Users/chandamon/Documents/connectthedots-master/Devices/GatewayConnectedDevices/Arduino UNO/Weather/WeatherShieldJson|1429443569.98":
+	{
+		"height": 136.0
+	},
+	"output.upload|/Users/chandamon/Documents/connectthedots-master/Devices/GatewayConnectedDevices/Arduino UNO/Weather/WeatherShieldJson|1429443591.25":
+	{
+		"height": 136.0
+	},
+	"output.upload|/Users/chandamon/Documents/connectthedots-master/Devices/GatewayConnectedDevices/Arduino UNO/Weather/WeatherShieldJson|1429443902.99":
+	{
+		"height": 136.0
+	},
+	"output.upload|/Users/chandamon/Documents/connectthedots-master/Devices/GatewayConnectedDevices/Arduino UNO/Weather/WeatherShieldJson|1429444038.66":
+	{
+		"height": 136.0
+	},
+	"output.upload|/Users/chandamon/Documents/connectthedots-master/Devices/GatewayConnectedDevices/Arduino UNO/Weather/WeatherShieldJson|1429444316.23":
+	{
+		"height": 136.0
+	},
+	"output.upload|/Users/chandamon/Documents/connectthedots-master/Devices/GatewayConnectedDevices/Arduino UNO/Weather/WeatherShieldJson|1429444416.17":
+	{
+		"height": 136.0
+	},
+	"output.upload|/Users/chandamon/Documents/connectthedots-master/Devices/GatewayConnectedDevices/Arduino UNO/Weather/WeatherShieldJson|1429444513.25":
+	{
+		"height": 136.0
+	},
+	"output.upload|/Users/chandamon/Documents/connectthedots-master/Devices/GatewayConnectedDevices/Arduino UNO/Weather/WeatherShieldJson|1429444605.09":
+	{
+		"height": 136.0
+	},
+	"output.upload|/Users/chandamon/Documents/connectthedots-master/Devices/GatewayConnectedDevices/Arduino UNO/Weather/WeatherShieldJson|1429445112.79":
+	{
+		"height": 136.0
+	},
+	"output.upload|/Users/chandamon/Documents/connectthedots-master/Devices/GatewayConnectedDevices/Arduino UNO/Weather/WeatherShieldJson|1429445348.77":
+	{
+		"height": 136.0
+	},
+	"output.upload|/Users/chandamon/Documents/connectthedots-master/Devices/GatewayConnectedDevices/Arduino UNO/Weather/WeatherShieldJson|1429450081.58":
+	{
+		"height": 136.0
+	},
+	"output.upload|/Users/chandamon/Documents/connectthedots-master/Devices/GatewayConnectedDevices/Arduino UNO/Weather/WeatherShieldJson|1429520430.0":
+	{
+		"height": 136.0
+	},
+	"output.upload|/Users/chandamon/Documents/connectthedots-master/Devices/GatewayConnectedDevices/Arduino UNO/Weather/WeatherShieldJson|1429520481.56":
+	{
+		"height": 136.0
+	},
+	"output.upload|/Users/chandamon/Documents/connectthedots-master/Devices/GatewayConnectedDevices/Arduino UNO/Weather/WeatherShieldJson|1429520575.57":
+	{
+		"height": 136.0
+	},
+	"output.upload|/Users/chandamon/Documents/connectthedots-master/Devices/GatewayConnectedDevices/Arduino UNO/Weather/WeatherShieldJson|1429520995.29":
+	{
+		"height": 136.0
+	},
+	"output.upload|/Users/chandamon/Documents/connectthedots-master/Devices/GatewayConnectedDevices/Arduino UNO/Weather/WeatherShieldJson|1429521050.71":
+	{
+		"height": 136.0
+	},
+	"output.upload|/Users/chandamon/Documents/connectthedots-master/Devices/GatewayConnectedDevices/Arduino UNO/Weather/WeatherShieldJson|1429521126.75":
+	{
+		"height": 136.0
+	},
+	"output.upload|/Users/chandamon/Documents/connectthedots-master/Devices/GatewayConnectedDevices/Arduino UNO/Weather/WeatherShieldJson|1429521212.08":
+	{
+		"height": 136.0
+	},
+	"output.upload|/Users/chandamon/Dropbox/Project|1425989357.86":
+	{
+		"height": 136.0
+	},
+	"output.upload|/Users/chandamon/Dropbox/Project|1425989387.2":
+	{
+		"height": 136.0
+	},
+	"output.upload|/Users/chandamon/Dropbox/Project|1425989480.17":
+	{
+		"height": 136.0
+	},
+	"output.upload|/Users/chandamon/Dropbox/Project|1425989530.13":
+	{
+		"height": 136.0
+	},
+	"replace":
+	{
+		"height": 68.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 219.0,
+	"status_bar_visible": true
+}

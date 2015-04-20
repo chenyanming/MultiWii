@@ -1,0 +1,4 @@
+ACC_getADC	.tags	/^ACC_getADC	Sensors.ino	\/^  void ACC_getADC () {$/
+GYRO_ORIENTATION	.tags	/^GYRO_ORIENTATION	Sensors.ino	\/^  #define GYRO_ORI/
+IsHigh	.tags	/^IsHigh	LCD.ino	\/^#define IsHigh(\/;"	d	file:$/
+IsMid	.tags	/^IsMid	LCD.ino	\/^#define IsMid(\/;"	d	file:$/
